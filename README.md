@@ -41,7 +41,8 @@ I've honed my technical skills through consistent participation in city Olympiad
 * Assembler and Configuration Specialist, Lun City Air
 
 ## 📫 How to reach me
-You can reach me on [LinkedIn](https://www.linkedin.com/in/stefanmartinuk) or drop an email at stefanmartinuk@gmail.com. If you prefer a more informal chat, message me on [Telegram](https://t.me/stefanmartinuk).
+You can reach me on [LinkedIn](https://www.linkedin.com/in/stefanmartinuk) or drop an email at stefanmartinuk@gmail.com.
+If you prefer a more informal chat, message me on [Telegram](https://t.me/stefanmartinuk).
 
 Let's connect and collaborate!
 
