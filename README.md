@@ -13,8 +13,8 @@ I've honed my technical skills through consistent participation in city Olympiad
 
 ## 🛠 Skills
 * Python
-* C++
 * JavaScript
+* C++
 * Perl
 * Linux
 * Docker
