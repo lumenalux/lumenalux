@@ -1,9 +1,9 @@
 # Hi, I'm Stefan Martyniuk 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn](https://www.linkedin.com/in/stefanmartinuk)
-[![GitHub]([https://i.stack.imgur.com/tskMh.png](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)) GitHub](https://www.github.com/lumenalux)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) Telegram](https://t.me/stefanmartinuk)
-[![Instagram]([https://i.stack.imgur.com/gVE0j.png](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whit)) Instagram](https://www.instagram.com/stefan.martyniuk)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanmartinuk)
+[![GitHub]([https://i.stack.imgur.com/tskMh.png](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/lumenalux)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stefanmartinuk)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stefan.martyniuk)
 
 ## 👨🏻‍💻 About Me 
 
