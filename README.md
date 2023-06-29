@@ -29,7 +29,7 @@ I've honed my technical skills through consistent participation in city Olympiad
 ![Gerrit](https://img.shields.io/badge/Gerrit-FCC624?style=for-the-badge&logo=gerrit&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-1abc9c?style=for-the-badge&logo=pycharm&logoColor=white)
-![YouTrack](https://img.shields.io/badge/YouTrack-808080?style=for-the-badge&logo=youtrack&logoColor=white)
+![YouTrack](https://img.shields.io/badge/YouTrack-7164D5?style=for-the-badge&logo=youtrack&logoColor=white)
 
 
 ## 🎓 Education
